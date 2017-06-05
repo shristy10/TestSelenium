@@ -7,6 +7,7 @@ Feature: This feature file consists of business validation
     Then I see the output
     And User quits the webDriver
     And User closes the webDriver
+    And To test the push and commit in Github
 
   @RunTest
   Scenario Outline: To validate our test2

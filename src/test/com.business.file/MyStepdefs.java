@@ -63,4 +63,9 @@ public class MyStepdefs extends Config{
         bud.click("google_search_button");
         System.out.println("Currenlty no button to click");
     }
+
+    @And("^To test the push and commit in Github$")
+    public void toTestThePushAndCommitInGithub() throws Throwable {
+        System.out.println("If you are able to see this code, means you have a successful gitHub pull :D");
+    }
 }
