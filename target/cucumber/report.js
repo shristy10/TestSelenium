@@ -129,21 +129,21 @@ formatter.match({
   "location": "MyStepdefs.theConfigurationAreLoaded()"
 });
 formatter.result({
-  "duration": 6609229134,
+  "duration": 7992601607,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userNavigateToTheWebsite()"
 });
 formatter.result({
-  "duration": 3991346781,
+  "duration": 3108157775,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userShouldSeeTheTitle()"
 });
 formatter.result({
-  "duration": 95103919,
+  "duration": 101273940,
   "status": "passed"
 });
 formatter.match({
@@ -156,7 +156,7 @@ formatter.match({
   "location": "MyStepdefs.userInputTheTextInSearchbox(String)"
 });
 formatter.result({
-  "duration": 751282132,
+  "duration": 1316386717,
   "status": "passed"
 });
 formatter.match({
@@ -169,14 +169,14 @@ formatter.match({
   "location": "MyStepdefs.userClicksTheSearchButton(String)"
 });
 formatter.result({
-  "duration": 1113960863,
+  "duration": 1200665002,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.userClosesTheWebDriver()"
 });
 formatter.result({
-  "duration": 245502510,
+  "duration": 259489912,
   "status": "passed"
 });
 });

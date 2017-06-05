@@ -6,7 +6,8 @@ import org.junit.Assert;
 
 public class MyStepdefs extends Config{
 
-    BusinessDef bud=new BusinessDef();
+    private BusinessDef bud=new BusinessDef();
+
 
     @cucumber.api.java.en.Given("^The configuration are loaded$")
     public void theConfigurationAreLoaded() throws Throwable {
